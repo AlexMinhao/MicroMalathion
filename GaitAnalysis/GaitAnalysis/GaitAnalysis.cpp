@@ -23,9 +23,9 @@ int main()
 	string line, field;    //line为每行内容，field为每个字段
 						   //打开文件
 	ifstream in;
-	in.open("C:/ALEX/Doc/微马pro/MicroMalathion/GaitAnalysis/raw_gyo.csv");    //以逗号隔开
+	in.open("D:/Working/MicroMa/MicroMalathion/GaitAnalysis/raw_gyo.csv");    //以逗号隔开
 	ofstream out;
-	out.open("C:/ALEX/Doc/微马pro/MicroMalathion/GaitAnalysis/signal_filtered.csv");
+	out.open("D:/Working/MicroMa/MicroMalathion/GaitAnalysis/signal_filtered.csv");
 	//将一行的多个字段取出			   //处理文件内容
 	if (in.is_open())
 	{

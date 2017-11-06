@@ -1,13 +1,12 @@
 ﻿  GaitAnalysis.cpp
-c:\alex\doc\微马pro\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
-c:\alex\doc\微马pro\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
-c:\alex\doc\微马pro\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
-c:\alex\doc\微马pro\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
-c:\alex\doc\微马pro\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(72): warning C4101: “input”: 未引用的局部变量
-c:\alex\doc\微马pro\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(71): warning C4101: “size”: 未引用的局部变量
-  正在生成代码...
-  正在编译...
+d:\working\microma\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(46): warning C4018: '<': signed/unsigned mismatch
+d:\working\microma\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(55): warning C4018: '<': signed/unsigned mismatch
+d:\working\microma\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\working\microma\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(95): warning C4018: '<': signed/unsigned mismatch
+d:\working\microma\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(72): warning C4101: 'input': unreferenced local variable
+d:\working\microma\micromalathion\gaitanalysis\gaitanalysis\gaitanalysis.cpp(71): warning C4101: 'size': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
   fir.cpp
-  正在生成代码...
-  GaitAnalysis.vcxproj -> C:\ALEX\Doc\微马pro\MicroMalathion\GaitAnalysis\Debug\GaitAnalysis.exe
-  GaitAnalysis.vcxproj -> C:\ALEX\Doc\微马pro\MicroMalathion\GaitAnalysis\Debug\GaitAnalysis.pdb (Full PDB)
+  GaitAnalysis.vcxproj -> D:\Working\MicroMa\MicroMalathion\GaitAnalysis\Debug\GaitAnalysis.exe
+  GaitAnalysis.vcxproj -> D:\Working\MicroMa\MicroMalathion\GaitAnalysis\Debug\GaitAnalysis.pdb (Full PDB)
