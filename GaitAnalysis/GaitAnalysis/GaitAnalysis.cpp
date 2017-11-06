@@ -23,9 +23,9 @@ int main()
 	string line, field;    //line为每行内容，field为每个字段
 						   //打开文件
 	ifstream in;
-	in.open("C:/ALEX/Doc/学习/GaitAnalysis/filtered_gyo.csv");    //以逗号隔开
+	in.open("C:/ALEX/Doc/微马pro/MicroMalathion/GaitAnalysis/raw_gyo.csv");    //以逗号隔开
 	ofstream out;
-	out.open("C:/ALEX/Doc/学习/GaitAnalysis/signal_filtered.csv");
+	out.open("C:/ALEX/Doc/微马pro/MicroMalathion/GaitAnalysis/signal_filtered.csv");
 	//将一行的多个字段取出			   //处理文件内容
 	if (in.is_open())
 	{
@@ -95,51 +95,16 @@ int main()
 	for (int i = 0; i<filterdata.size(); i++)
 	{
 		
-		//	out << filterdata[i];
-		//	out << ",";
+			out << filterdata[i];
+			out << ",";
 			
-			//	cout << filterdata[i] << endl;
+			cout << filterdata[i] << endl;
 			
 
 	}
 	
 
-	double array[30] = {0,
-		-0.021,
-		0.062,
-		-0.041,
-		0.012,
-		-0.061,
-		0.072,
-		-0.053,
-		0.0221,
-		-0.0612,
-		0.0632,
-		-0.0123,
-		0.0543,
-		-0.0212,
-		0.0623,
-		-0.0443,
-		0.0112,
-		-0.0614,
-		0.0723,
-		-0.0545,
-		0.0212,
-		-0.0634,
-		0.06245,
-		-0.01235,
-		0.052345,
-		-0.02112,
-		0.06221,
-		-0.041134,
-		0.011123,
-		-0.06432,
-		 };
-
-	for (int i=0; i < 30; i++)
-	{
-		//rawd.push_back(array[i]);
-	}
+	/*
 	GaitSegmentation gait;
 	
 	gait.Extreme(rawd);
@@ -150,6 +115,10 @@ int main()
 	{
 		std::cout <<node[i]<<"***"<<ind[i] << std::endl;
 	}
+	
+	
+	*/
+
 	
 	getchar();
 	
