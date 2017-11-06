@@ -1,0 +1,10 @@
+﻿  GaitSegmentation.cpp
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(27): warning C4244: “参数”: 从“double”转换到“std::size_t”，可能丢失数据
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(30): warning C4244: “参数”: 从“double”转换到“std::size_t”，可能丢失数据
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(31): warning C4244: “参数”: 从“double”转换到“std::size_t”，可能丢失数据
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(32): warning C4244: “参数”: 从“double”转换到“std::size_t”，可能丢失数据
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(33): warning C4244: “参数”: 从“double”转换到“std::size_t”，可能丢失数据
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(34): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+c:\alex\doc\学习\gaitanalysis\gaitanalysis\gaitsegmentation.cpp(50): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+  GaitAnalysis.vcxproj -> C:\ALEX\Doc\学习\GaitAnalysis\Debug\GaitAnalysis.exe
+  GaitAnalysis.vcxproj -> C:\ALEX\Doc\学习\GaitAnalysis\Debug\GaitAnalysis.pdb (Full PDB)
